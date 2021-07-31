@@ -1,0 +1,12 @@
+var firstname = 'arafat';
+var secondname = 'hossain';
+var fullname = firstname + ' ' + secondname;
+console.log(fullname);
+var one = 'ami';
+var two = 'tumi';
+var total = one + ' ' + two;
+console.log(total);
+var three = '34';
+var four = '54';
+var total = three + four;
+console.log(total);
